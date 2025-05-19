@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kavindu anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu anjana" height="30" width="40" /></a>
-<a href="https://fb.com/kavindu anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu anjana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavindu-anjana-02477a253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavindu-anjana-02477a253/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/15pbwvqyq9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15pbwvqyq9/" height="30" width="40" /></a>
 <a href="https://instagram.com/kavindu.a.de_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu.a.de_silva" height="30" width="40" /></a>
 </p>
 
