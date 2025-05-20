@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **WeblookInternational(Pvt)Ltd**
+- 🔭 I’m currently working on **Weblook International(Pvt)Ltd**
 
 - 🌱 I’m currently learning **React,vue,Laravel,PHP,MySql,HTML,CSS,Jaca Script,Java,Python**
 
