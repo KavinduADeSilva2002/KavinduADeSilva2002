@@ -32,8 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinduadesilva2002&show_icons=true&locale=en" alt="kavinduadesilva2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinduadesilva2002&" alt="kavinduadesilva2002" />
-<br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  
-  <br</p>
+<p> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></p>
