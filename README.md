@@ -18,7 +18,7 @@
 - 🔭 Currently working at **Weblook International (Pvt) Ltd**
 - 🌱 Currently learning **Next.js, AI/ML, Advanced Laravel, System Design**
 - 👨‍💻 Portfolio: https://portfolio-web-site-ten-mocha.vercel.app/
-- 📫 Email: **kavinduanjana35@gmail.com**
+- 📫 Email: **desilvak953@gmail.com**
 - ⚡ Fun fact: Call me **Anji**
 
 ---
